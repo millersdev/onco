@@ -9,6 +9,8 @@
 		<meta name="description" content="Vindt hier uw gespecialiseerde fysiotherapeut bij kanker. Oncologie Revalidatie dicht bij huis. In regio Haarlem, Heemstede, Hoofddorp, Hillegom, Lisse, Nieuw-Vennep, Santpoort-Noord, Heemskerk. Begeleiding bij herstel en revalidatie.">
 	</head>
 	<body class="is-preload">
+		<?php require ('include.php'); ?>
+
 		<div id="page-wrapper">
 
 			<!-- Header -->
